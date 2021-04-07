@@ -1,0 +1,18 @@
+﻿  Run-time-stats-utils.c
+  heap_4.c
+  list.c
+  main.c
+C:\Users\tushu\source\repos\EXAM_Program\main.c(10,1): warning C4005: 'INCLUDE_vTaskDelay': macro redefinition
+C:\Users\tushu\source\repos\EXAM_Program\FreeRTOSConfig.h(105): message : see previous definition of 'INCLUDE_vTaskDelay'
+C:\Users\tushu\source\repos\EXAM_Program\main.c(59,98): warning C4090: 'function': different 'const' qualifiers
+C:\Users\tushu\source\repos\EXAM_Program\main.c(61,98): warning C4090: 'function': different 'const' qualifiers
+C:\Users\tushu\source\repos\EXAM_Program\main.c(54,1): warning C4047: 'initializing': 'void *' differs in levels of indirection from 'int'
+C:\Users\tushu\source\repos\EXAM_Program\main.c(55,1): warning C4047: 'initializing': 'void *' differs in levels of indirection from 'int'
+C:\Users\tushu\source\repos\EXAM_Program\main.c(95,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+C:\Users\tushu\source\repos\EXAM_Program\main.c(129,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+C:\Users\tushu\source\repos\EXAM_Program\main.c(108,10): warning C4101: 'QueueElement_count': unreferenced local variable
+  port.c
+  queue.c
+  tasks.c
+  Generating Code...
+  EXAM_Program.vcxproj -> C:\Users\tushu\source\repos\EXAM_Program\Debug\EXAM_Program.exe
