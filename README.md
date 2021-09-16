@@ -1,5 +1,8 @@
 # FreeRTOS_QueueAndTasks
 
+This was the coding exam for Real time programming module.
+Below is the excerpt from the guidelines followed for the test.
+
 Practical Exam question (30 minutes):
 Bluetooth stack definition with complete problem statement available in PracticalExamQuestion.txt.
 
