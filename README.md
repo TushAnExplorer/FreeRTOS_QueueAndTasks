@@ -1,4 +1,6 @@
 # FreeRTOS_QueueAndTasks
+Practical Exam Question.txt document have all the details regarding the problem statement.
+Implemented solution in C is shared in the folder named "EXAM_Program".
 
 This was the coding exam for Real time programming module.
 Below is the excerpt from the guidelines followed for the test.
